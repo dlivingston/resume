@@ -1,34 +1,92 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 :root{
-  --main-highlight-color:#60D0E4;
-  --secondary-highlight-color:#B8E6F1;
-  --list-point-color:#C2C6CA;
-  --text-color:#4e5e64;
+  --main-highlight-color: #448CCB;
+  --text-color:#272e30;
+}
+
+@page {
+  size:US-Letter;
+  margin: 0.5cm 0.5cm 0.5cm 0.5cm;
 }
 
 body{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size:10pt;
   color:var(--text-color);
+  width: 21.59cm;
+}
+h3 {
+  margin: 0;
+  font-size: 11pt;
+}
+h2 {
+  margin: 0 0 0.6rem 0;
+  font-size: 12pt;
+  border-bottom: 3px solid var(--main-highlight-color);
+}
+header {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NjAgNTYwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzI3MmUzMDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPkFzc2V0IDE8L3RpdGxlPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxnIGlkPSJMYXllcl8xLTIiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNTYuMzcsMTY4LjE5SDIxM2MyMS4zNy45MywzOC4yNiw0Ljk0LDUwLjg2LDEyLjIyLDE0LjM4LDguMzEsMjUuODYsMjAuNDQsMzQuMzUsMzYuNTlTMzExLDI1Mi41NiwzMTEsMjc1LjMzcTAsMzMuNDYtMTIuMjMsNTkuNzR0LTM1LjQ3LDQxLjYyUTIzOS45MiwzOTIsMTk5LjM2LDM5MkgxMDcuMDVWMjU0LjhoNDYuNjdWMzYwLjE3aDM0LjgxYzE4LjIsMCwzMi4xMS0yLjgsNDEuNzItOC40OXMxNy4yNy0xNS4yMSwyMi44Ny0yOC42NSw4LjQtMjguNDcsOC40LTQ1YzAtMTUuODctMi43MS0yOS44Ny04LjIxLTQyLjA5cy0xMy0yMS40Ny0yMi42OC0yNy43Mi0yNS45NS05LjQzLTQ4LjgyLTkuNDNIMTUzLjYzbC05MS40Ny0uMDlBMjMyLDIzMiwwLDAsMCw0Ny42LDI4MGMwLDEyOC4zMywxMDQuMDcsMjMyLjQsMjMyLjQsMjMyLjRhMjMxLjgxLDIzMS44MSwwLDAsMCwxNjEuODQtNjUuNjFoNjMuMDlBMjc5LjcsMjc5LjcsMCwwLDEsMjgwLDU2MGgwQzEyNS4zNSw1NjAsMCw0MzQuNjUsMCwyODBIMEEyNzkuMDksMjc5LjA5LDAsMCwxLDIzLjI0LDE2OC4xOVoiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik01MjMsMzkyLjE5SDM0OHYtMjI0aDQ2LjY3VjM2MC4zNmgxMDMuNUEyMzEuNDEsMjMxLjQxLDAsMCwwLDUxMi40OSwyODBjMC0xMjguMzMtMTA0LjA2LTIzMi40LTIzMi40LTIzMi40YTIzMS40OSwyMzEuNDksMCwwLDAtMTYyLjIxLDY2aC02M0EyNzkuNDcsMjc5LjQ3LDAsMCwxLDI4MCwwaDBDNDE0LDAsNTI2LDk0LjA4LDU1My41NiwyMTkuOEEyODMuOSwyODMuOSwwLDAsMSw1NjAsMjgwYTI3OS40OSwyNzkuNDksMCwwLDEtMjMuMzMsMTEyLjE5SDUyM1oiLz48L2c+PC9nPjwvc3ZnPg==");
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-size: 80px 80px;
+  padding-left: 90px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid var(--main-highlight-color);
+}
+header h1 {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 1;
+  margin: 0;
+}
+header h2 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  font-weight: 400;
+  font-size: 14pt;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.5;
+  border-bottom: 0;
+  text-transform: uppercase;
+}
+header a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+header .header-titles {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 header ul {
   list-style: none;
   padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
 header ul li {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
+  margin-right: 0.75rem;
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-end;
 }
 header ul li::before{
   content: "";
   display: inline-block;
   width: 20px;
   height: 20px;
-  margin-right: 10px;
+  margin-right: 0.25rem;
   background-repeat: no-repeat;
   background-position: left center;
   background-size: 20px;
@@ -44,4 +102,131 @@ li.phone::before {
 }
 li.website::before {
   background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0iIzRlNWU2NCIgYXJpYS1oaWRkZW49InRydWUiIGNsYXNzPSJoLTQgdy00Ij48cGF0aCBkPSJNMTYuNTU1IDUuNDEyYTguMDI4IDguMDI4IDAgMDAtMy41MDMtMi44MSAxNC44OTkgMTQuODk5IDAgMDExLjY2MyA0LjQ3MiA4LjU0NyA4LjU0NyAwIDAwMS44NC0xLjY2MnpNMTMuMzI2IDcuODI1YTEzLjQzIDEzLjQzIDAgMDAtMi40MTMtNS43NzMgOC4wODcgOC4wODcgMCAwMC0xLjgyNiAwIDEzLjQzIDEzLjQzIDAgMDAtMi40MTMgNS43NzNBOC40NzMgOC40NzMgMCAwMDEwIDguNWMxLjE4IDAgMi4zMDQtLjI0IDMuMzI2LS42NzV6TTYuNTE0IDkuMzc2QTkuOTggOS45OCAwIDAwMTAgMTBjMS4yMjYgMCAyLjQtLjIyIDMuNDg2LS42MjRhMTMuNTQgMTMuNTQgMCAwMS0uMzUxIDMuNzU5QTEzLjU0IDEzLjU0IDAgMDExMCAxMy41Yy0xLjA3OSAwLTIuMTI4LS4xMjctMy4xMzQtLjM2NmExMy41MzggMTMuNTM4IDAgMDEtLjM1Mi0zLjc1OHpNNS4yODUgNy4wNzRhMTQuOSAxNC45IDAgMDExLjY2My00LjQ3MSA4LjAyOCA4LjAyOCAwIDAwLTMuNTAzIDIuODFjLjUyOS42MzggMS4xNDkgMS4xOTkgMS44NCAxLjY2ek0xNy4zMzQgNi43OThhNy45NzMgNy45NzMgMCAwMS42MTQgNC4xMTUgMTMuNDcgMTMuNDcgMCAwMS0zLjE3OCAxLjcyIDE1LjA5MyAxNS4wOTMgMCAwMC4xNzQtMy45MzkgMTAuMDQzIDEwLjA0MyAwIDAwMi4zOS0xLjg5NnpNMi42NjYgNi43OThhMTAuMDQyIDEwLjA0MiAwIDAwMi4zOSAxLjg5NiAxNS4xOTYgMTUuMTk2IDAgMDAuMTc0IDMuOTQgMTMuNDcyIDEzLjQ3MiAwIDAxLTMuMTc4LTEuNzIgNy45NzMgNy45NzMgMCAwMS42MTUtNC4xMTV6TTEwIDE1Yy44OTggMCAxLjc3OC0uMDc5IDIuNjMzLS4yM2ExMy40NzMgMTMuNDczIDAgMDEtMS43MiAzLjE3OCA4LjA5OSA4LjA5OSAwIDAxLTEuODI2IDAgMTMuNDcgMTMuNDcgMCAwMS0xLjcyLTMuMTc4Yy44NTUuMTUxIDEuNzM1LjIzIDIuNjMzLjIzek0xNC4zNTcgMTQuMzU3YTE0LjkxMiAxNC45MTIgMCAwMS0xLjMwNSAzLjA0IDguMDI3IDguMDI3IDAgMDA0LjM0NS00LjM0NWMtLjk1My41NDItMS45NzEuOTgxLTMuMDQgMS4zMDV6TTYuOTQ4IDE3LjM5N2E4LjAyNyA4LjAyNyAwIDAxLTQuMzQ1LTQuMzQ1Yy45NTMuNTQyIDEuOTcxLjk4MSAzLjA0IDEuMzA1YTE0LjkxMiAxNC45MTIgMCAwMDEuMzA1IDMuMDR6Ij48L3BhdGg+PC9zdmc+");
+}
+#summary h2 {
+  display: none
+}
+#skills {
+  padding-bottom: 1rem;
+}
+#skills ul.core-skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  list-style: none;
+}
+#skills ul.core-skills li {
+  display: flex;
+  align-items: center;
+  margin: 0 0.5rem;
+}
+#skills ul.core-skills li::before {
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 0.25rem;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 25px;
+}
+#skills ul.core-skills li.html::before {
+  background-image: url("./icons/html.svg");
+}
+#skills ul.core-skills li.css::before {
+  background-image: url("./icons/css.svg");
+}
+#skills ul.core-skills li.js::before {
+  background-image: url("./icons/js.svg");
+}
+#skills ul.core-skills li.ts::before {
+  background-image: url("./icons/ts.svg");
+}
+#skills ul.core-skills li.ux::before {
+  background-image: url("./icons/uidesignicon.svg");
+}
+#skills ul.core-skills li.react::before {
+  background-image: url("./icons/react.svg");
+}
+#skills ul.core-skills li.angular::before {
+  background-image: url("./icons/angular.svg");
+}
+#skills ul.core-skills li.node::before {
+  background-image: url("./icons/nodejs.svg");
+}
+#skills ul.full-skill-list {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+#skills ul.full-skill-list li {
+  white-space: nowrap;
+  margin: 0 0 0 0.25rem;
+  font-size: 9pt;
+}
+#experience {
+  padding-bottom: 1rem;
+}
+#experience .job {
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--main-highlight-color);
+  display: grid;
+  grid-template-columns: 230px 2fr;
+}
+#experience .job h3.title {
+  font-size: 12pt;
+  margin-bottom: 0.25rem;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+#experience .job .col {
+  display: flex;
+  flex-direction: column;
+  max-width: 230px;
+  grid-column-start: 1;
+  grid-row-start: 2;
+}
+#experience .job .employer {
+  font-weight: 600;
+  font-size: 11pt;
+}
+#experience .job ul.description {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+#experience .job ul.description li {
+  margin-bottom: 0.15rem;
+  font-size: 10pt;
+}
+#education {
+  padding-bottom: 1rem;
+}
+#links {
+  padding-bottom: 1rem;
+}
+#links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+#links ul li a {
+  color: var(--main-highlight-color);
 }
