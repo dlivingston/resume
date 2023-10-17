@@ -3,8 +3,8 @@ __Senior Web & UI/UX Developer__
 
 * North Brunswick, New Jersey, United States
 * donlivingston@gmail.com
+* (801) 971-2482
 * [donaldlivingston.com](http://donaldlivingston.com)
-* 801-971-2482
 * [in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)
 
 ## Summary
@@ -12,79 +12,10 @@ I am a Senior Web and User Interface (UI/UX) Developer. I have over 12 years of 
 
 ## Skills
 ### Core Skills
-• HTML
-• CSS 
-• JavaScript/TypeScript
-• UX Development & Design 
+• HTML • CSS • JavaScript • TypeScript • UX Development & Design 
 
-
-### UI & Templating Frameworks
-• Bootstrap
-• Foundation 
-• Material Design
-• Tailwind CSS
-• Liquid (Shopify)
-• Twig
-• Handlebars
-• Nunjucks
-
-### Development & Build Tools 
-• Webpack 
-• NPM
-• Grunt
-• Gulp
-• Babel
-• Browserify 
-• Docker
-• Auth0 
-• VS Code 
-• Vagrant 
-• Git 
-
-### JS Frameworks & Libraries 
-• React 
-• Angular
-• Vue
-• TypeScript 
-• Node.js
-• jQuery 
-• Next.js
-
-### Database & Content Management 
-• MySQL
-• Firebase
-• NoSQL
-• WordPress 
-• Drupal 
-• Contentful 
-
-### Project Management Tools 
-• JIRA
-• Bitbucket 
-• GitHub 
-
-### CSS Techniques
-• Preprocessors (SASS/SCSS/LESS) 
-• Animations & Keyframes
-• Variables & Custom Properties 
-
-### PHP Frameworks 
-• Laravel
-• CodeIgniter 
-• CakePHP 
-
-### Technology Stacks 
-• REST APIs 
-• LAMP/MAMP
-• MEAN/MERN
-• JAMstack
-• Amazon Web Services (AWS) 
-
-### Design Apps 
-• Adobe Creative Cloud 
-• Sketch
-• InVision
-• Figma 
+### Additional Skills
+ • Adobe Creative Cloud • Amazon Web Services (AWS) • Angular • Auth0 • Babel • Bitbucket • Bootstrap • CakePHP • CodeIgniter • Contentful • CSS Animations & Keyframes • CSS Preprocessors (SASS/SCSS/LESS) • CSS Variables & Custom Properties • Docker • Drupal • Figma • Firebase • Git • GitHub • Grunt • Gulp • Handlebars • InVision • JAMstack • JIRA • jQuery • LAMP/MAMP • Laravel • Liquid (Shopify) • Material Design • MEAN/MERN • MySQL • Next.js • Node.js • NoSQL • NPM • Nunjucks • PHP • Python • React • REST APIs • Sketch • Tailwind CSS • Twig • Vue • Webpack • WordPress
 
 ## EXPERIENCE  
 
