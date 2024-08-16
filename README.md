@@ -1,14 +1,14 @@
 # Donald Livingston
 __Senior Web & UI/UX Developer__
 
-* North Brunswick, New Jersey, United States
+* Pottstown PA, USA
 * donlivingston@gmail.com
 * (801) 971-2482
 * [donaldlivingston.com](http://donaldlivingston.com)
 * [in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)
 
 ## Summary
-I am a Senior Web and User Interface (UI/UX) Developer. I have over 12 years of experience working with a broad range of companies and clients. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.
+A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of experience, known for collaborating with diverse clients and organizations. Excels in crafting clean, maintainable code and delivering engaging web designs, harmonizing creative UI design with rigorous and meticulous development.
 
 ## Skills
 ### Core Skills
@@ -18,6 +18,13 @@ I am a Senior Web and User Interface (UI/UX) Developer. I have over 12 years of 
  • Adobe Creative Cloud • Amazon Web Services (AWS) • Angular • Auth0 • Babel • Bitbucket • Bootstrap • CakePHP • CodeIgniter • Contentful • CSS Animations & Keyframes • CSS Preprocessors (SASS/SCSS/LESS) • CSS Variables & Custom Properties • Docker • Drupal • Figma • Firebase • Git • GitHub • Grunt • Gulp • Handlebars • InVision • JAMstack • JIRA • jQuery • LAMP/MAMP • Laravel • Liquid (Shopify) • Material Design • MEAN/MERN • MySQL • Next.js • Node.js • NoSQL • NPM • Nunjucks • PHP • Python • React • REST APIs • Sketch • Tailwind CSS • Twig • Vue • Webpack • WordPress
 
 ## EXPERIENCE  
+
+### Senior Software Engineer (Front End)
+__QuSecure__ - _Remote, USA_
+February 2024 - July 2024
+• Collaborated on the design and implementation of the user interface of the award winning QuProtect Software.
+• Implemented React components using Tailwind CSS framework.
+• Conducted code reviews, designed User Personae and ensured the user experience met the highest standards of excellence.
 
 ### Sr. Front End Developer (Project Consultant)
 __AIM Consulting Group__ - _Remote, USA_  
