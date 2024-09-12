@@ -78,7 +78,7 @@ h3 {
 
 h4 {
     color: rgb(var(--text-color));
-    font-weight: 500;
+    font-weight: 600;
     font-size: 9pt;
     margin: 0;
 }
@@ -178,6 +178,13 @@ ul ul,ul ol {
 
 caption,col,colgroup,table,tbody,td,tfoot,th,thead,tr {
     border-spacing: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 18% 2fr;
+    grid-gap: 1rem;
+    margin: 0.5rem 0;
 }
 
 table {
