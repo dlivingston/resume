@@ -19,8 +19,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### QuSecure
 <img style="max-width: 12px; vertical-align: middle; margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> Remote, USA  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2024 - 07/2024_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2024 - 07/2024_  
 </div><div class="col-2">
 
 * Collaborated on the design and implementation of the user interface of the award winning QuProtect Software.
@@ -35,8 +35,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### AIM Consulting Group
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> Remote, USA  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 </div><div class="col-2">
 
 * Applied Material Design principles to create an intuitive user experience and a cohesive visual language across an Angular based User Management application.  
@@ -51,8 +51,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### Deloitte Digital
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  New York, NY  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 </div><div class="col-2">
 
 * Established style guide and coding best practices in the development of an informational React.js website for the CDC.  
@@ -67,8 +67,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### Morgan Stanley
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  New York, NY  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 </div><div class="col-2">
 
 * Worked on the UI of the internal-facing financial planning workbench application, focusing on improving the overall User Experience.  
@@ -82,8 +82,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### Fashionphile
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Lehi, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 </div><div class="col-2">
 
 * Retooled CSS and JavaScript build processes to better integrate with new AWS CI/CD pipeline.  
@@ -100,8 +100,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### Software Technology Group
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2017 - 12/2018_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2017 - 12/2018_  
 </div><div class="col-2">
 
 * Completed projects for multiple clients including MRM/McCann, Cisco, Panasonic, Verizon, Fitbit, 7Tunnels, and Connect FSS.  
@@ -110,13 +110,13 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 </div></div>
 ---
 
-### Web & UI Developer
+### Freelance Web & UI Developer
 <div class="grid"><div class="col-1">
 
 #### Freelance Contractor
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2016 - 10/2017_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2016 - 10/2017_  
 </div><div class="col-2">
 
 * Worked on multiple short-term projects for different companies, including website rebuild/redesign, new web application design, Shopify theme customizations, and implementing new features and fixes for both internal and public-facing web applications.
@@ -128,9 +128,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <div class="grid"><div class="col-1">
 
 #### Maverik Inc.
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2016 - 09/2016_  
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2016 - 09/2016_  
 </div><div class="col-2">
 
 * Created and maintained several Maverik company websites and applications, including a complete rebuild of an internal Maverik Real Estate Management app, updates to the Maverik Rewards Manager app, and changes to Triton (the internal store management site).
@@ -143,8 +143,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### ZAGG Inc.
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2012 - 10/2015_  
 
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2012 - 10/2015_  
 </div><div class="col-2">
 
 * Worked on numerous projects, including multiple product launches, moving the site to a responsive web design, and a migration to the Magento e-commerce platform.
@@ -157,24 +157,29 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 
 #### Overstock.com
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2010 - 02/2012_  
 
-</div><div class="col-2">
+<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2010 - 02/2012_  
+</div><div class="col-2">  
 
 * Worked on a multitude of holiday, sale, and promotional web pages.  
 * Designed web banners and promo images.  
-* Maintained layout of the site's continuously evolving content. -->
+* Maintained layout of the site's continuously evolving content.
 
 </div></div>
 ---
 
 ## EDUCATION
 ### Neumont College of Computer Science
-Bachelor of Science (BS), Computer Science (unfinished)
-2007 - 2009  
+Bachelor of Science (BS), Computer Science (unfinished) 2007 - 2009  
+
+---
+
 
 ## PORTFOLIO & LINKS
-Personal Website & Portfolio: [donaldlivingston.com](https://donaldlivingston.com)  
-LinkedIn Profile: [linkedin.com/in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)  
-GitHub Profile: [github.com/dlivingston](https://github.com/dlivingston)  
-Presentation at UtahJS Conference 2019: [YouTube](https://www.youtube.com/watch?v=iOZvkuTki2s)  
+Personal Website & Portfolio: [https://donaldlivingston.com](https://donaldlivingston.com)  
+
+LinkedIn Profile: [https://www.linkedin.com/in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)  
+
+GitHub Profile: [https://github.com/dlivingston](https://github.com/dlivingston)  
+
+Presentation at UtahJS Conference 2019: [https://www.youtube.com/watch?v=iOZvkuTki2s](https://www.youtube.com/watch?v=iOZvkuTki2s)  
