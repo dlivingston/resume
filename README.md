@@ -3,14 +3,34 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of experience, known for collaborating with diverse clients and organizations. Excels in crafting clean, maintainable code and delivering engaging web designs, harmonizing creative UI design with rigorous and meticulous development.
+Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
 
 ## SKILLS
-### Core Skills
-• HTML • CSS • JavaScript • TypeScript • UX Development & Design 
+<div class="grid">  
 
-### Additional Skills
- • Adobe Creative Cloud • Amazon Web Services (AWS) • Angular • Auth0 • Babel • Bitbucket • Bootstrap • CakePHP • CodeIgniter • Contentful • CSS Animations & Keyframes • CSS Preprocessors (SASS/SCSS/LESS) • CSS Variables & Custom Properties • Docker • Drupal • Figma • Firebase • Git • GitHub • Grunt • Gulp • Handlebars • InVision • JAMstack • JIRA • jQuery • LAMP/MAMP • Laravel • Liquid (Shopify) • Material Design • MEAN/MERN • MySQL • Next.js • Node.js • NoSQL • NPM • Nunjucks • PHP • Python • React • REST APIs • Sketch • Tailwind CSS • Twig • Vue • Webpack • WordPress
+### Core Competencies
+* Front-End Development: HTML, CSS, JavaScript, TypeScript, React, Vue.js, Angular  
+* UI/UX Design: Wireframing, Prototyping, Responsive Design, Accessibility (WCAG 2.1)  
+* Performance & Optimization: Webpack, Gulp, Lighthouse  
+* Testing: Jest, Cypress, Mocha
+
+### Tools & Platforms
+* Version Control: Git, GitHub, Bitbucket  
+* Build Tools: Webpack, Babel, Gulp  
+* Cloud & CI/CD: AWS, Firebase, Docker, Jenkins
+
+### Frameworks & Libraries
+* CSS: Tailwind CSS, Bootstrap, Material-UI  
+* JavaScript: React, Vue.js, Next.js, Nuxt.js
+
+### Additional Technical Skills
+* Backend: Node.js, Express.js, PHP, MySQL, MongoDB  
+* APIs: RESTful APIs, GraphQL, Axios
+
+### Design Tools
+* Figma, Sketch, Adobe XD, InVision, Photoshop  
+
+</div>  
 
 ## EXPERIENCE  
 
@@ -23,9 +43,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2024 - 07/2024_  
 </div><div class="col-2">
 
-* Collaborated on the design and implementation of the user interface of the award winning QuProtect Software.
-* Implemented React components using Tailwind CSS framework.
-* Conducted code reviews, designed User Personae and ensured the user experience met the highest standards of excellence.
+* Revamped UI with React and Tailwind CSS, improving responsiveness and consistency across devices.
+* Contributed to the development of award-winning QuProtect Software by collaborating with cross-functional teams to refine the user interface.
+* Led code reviews and conducted usability assessments to enhance the product’s user experience.
 
 </div></div>
 ---
@@ -39,9 +59,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 </div><div class="col-2">
 
-* Applied Material Design principles to create an intuitive user experience and a cohesive visual language across an Angular based User Management application.  
-* Leveraged AG Grid's advanced features, such as infinite scrolling, column pinning, and row grouping, to enhance data presentation.  
-* Integrated backend REST APIs to fetch, display, and manipulate data.  
+* Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid, enhancing user interaction.
+* Streamlined API integrations for user management application, ensuring seamless data fetching and manipulation.
+* Collaborated with the design team to apply Material Design principles, creating a cohesive and intuitive user experience.
 
 </div></div>
 ---
@@ -55,13 +75,13 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 </div><div class="col-2">
 
-* Established style guide and coding best practices in the development of an informational React.js website for the CDC.  
-* Conducted regular Standup meetings to ensure effective communication and collaboration within the team.  
-* Worked on building a custom Vue.js component for use with an AI chatbot and delivered an internal-facing Angular web application as part of a team.  
+* Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
+* Managed regular standup meetings, ensuring timely communication and adherence to project goals.
+* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
 
 </div></div>
 ---
-
+<!--BREAK-->
 ### Vice President, Institutional Securities Technology
 <div class="grid"><div class="col-1">
 
@@ -71,8 +91,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 </div><div class="col-2">
 
-* Worked on the UI of the internal-facing financial planning workbench application, focusing on improving the overall User Experience.  
-* Streamlined existing layouts and updated the framework and tools on the Angular front-end.
+* Enhanced the user interface of a financial planning workbench application, focusing on usability improvements and streamlining user workflows.
+* Collaborated with cross-functional teams to modernize the Angular framework, ensuring alignment with current industry standards.
+<!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
 
 </div></div>
 ---
@@ -86,11 +107,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 </div><div class="col-2">
 
-* Retooled CSS and JavaScript build processes to better integrate with new AWS CI/CD pipeline.  
-* Prototyped a new web application using Vue.js for Neiman Marcus stores to access the Fashionphile inventory system and led the development of the finished product.  
-* Refreshed the Customer Signup/Login flow to improve customer experience and security.  
-* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.  
-* Mentored new Front-end Developers and helped establish coding standards and document best practices.  
+* Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
+* Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
+* Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
 
 </div></div>
 ---
@@ -104,8 +123,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2017 - 12/2018_  
 </div><div class="col-2">
 
-* Completed projects for multiple clients including MRM/McCann, Cisco, Panasonic, Verizon, Fitbit, 7Tunnels, and Connect FSS.  
-* Worked on various web UI applications, product and promotional landing pages, as well as database-driven MVC applications.  
+* Delivered web solutions for high-profile clients, including MRM/McCann and Cisco, ensuring alignment with client specifications and industry best practices.
+* Designed and implemented engaging web UI applications and promotional landing pages, contributing to enhanced brand visibility and user engagement.
+<!-- * Utilized database-driven MVC frameworks to streamline project development and improve application performance. -->
 
 </div></div>
 ---
@@ -119,7 +139,8 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2016 - 10/2017_  
 </div><div class="col-2">
 
-* Worked on multiple short-term projects for different companies, including website rebuild/redesign, new web application design, Shopify theme customizations, and implementing new features and fixes for both internal and public-facing web applications.
+* Managed multiple short-term projects, including website redesigns and new application designs, tailoring solutions to client needs and enhancing user experiences.
+* Implemented new features and fixes for various web applications, ensuring high-quality deliverables and client satisfaction.
 
 </div></div>
 ---
@@ -133,7 +154,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2016 - 09/2016_  
 </div><div class="col-2">
 
-* Created and maintained several Maverik company websites and applications, including a complete rebuild of an internal Maverik Real Estate Management app, updates to the Maverik Rewards Manager app, and changes to Triton (the internal store management site).
+* Led the complete rebuild of the Maverik Real Estate Management application, enhancing functionality and user experience through modern design practices.
+* Collaborated with cross-functional teams to implement updates to the Maverik Rewards Manager app, ensuring seamless integration of new features.
+<!-- * Optimized internal store management processes through enhancements to the Triton application, improving overall operational efficiency. -->
 
 </div></div>
 ---
@@ -147,23 +170,9 @@ A seasoned Senior Web and User Interface (UI/UX) Developer with 12+ years of exp
 <img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2012 - 10/2015_  
 </div><div class="col-2">
 
-* Worked on numerous projects, including multiple product launches, moving the site to a responsive web design, and a migration to the Magento e-commerce platform.
-
-</div></div>
----
-
-### Front-End Web Developer
-<div class="grid"><div class="col-1">
-
-#### Overstock.com
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  Salt Lake City, UT  
-
-<img style="max-width: 12px; vertical-align: middle;  margin-right: 0.25rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2010 - 02/2012_  
-</div><div class="col-2">  
-
-* Worked on a multitude of holiday, sale, and promotional web pages.  
-* Designed web banners and promo images.  
-* Maintained layout of the site's continuously evolving content.
+* Played a key role in multiple product launches, contributing to the migration to responsive web design and enhancing user accessibility.
+* Worked collaboratively on the migration to the Magento e-commerce platform, ensuring a seamless transition and improved user experience.
+<!-- * Developed promotional web pages and designed engaging web banners, boosting brand presence during key marketing campaigns. -->
 
 </div></div>
 ---
