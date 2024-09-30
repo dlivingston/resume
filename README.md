@@ -9,26 +9,26 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 <div class="grid">  
 
 ### Core Competencies
-* Front-End Development: HTML, CSS, JavaScript, TypeScript, React, Vue.js, Angular  
-* UI/UX Design: Wireframing, Prototyping, Responsive Design, Accessibility (WCAG 2.1)  
-* Performance & Optimization: Webpack, Gulp, Lighthouse  
-* Testing: Jest, Cypress, Mocha
+* Front-End Development: HTML, CSS, JavaScript (ES6+), TypeScript
+* UI/UX Design: Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
+* Performance & Optimization: Lighthouse, CDN, code splitting, image optimization
 
 ### Tools & Platforms
 * Version Control: Git, GitHub, Bitbucket  
-* Build Tools: Webpack, Babel, Gulp  
+* Build Tools: Webpack, Babel, Gulp, NPM  
 * Cloud & CI/CD: AWS, Firebase, Docker, Jenkins
 
 ### Frameworks & Libraries
 * CSS: Tailwind CSS, Bootstrap, Material-UI  
-* JavaScript: React, Vue.js, Next.js, Nuxt.js
+* JavaScript: React, Angular, Vue.js, Next.js, Redux, jQuery
+* Testing: Jest, Mocha, Jasmine, Cypress
 
 ### Additional Technical Skills
-* Backend: Node.js, Express.js, PHP, MySQL, MongoDB  
+* Backend: Node.js, Express.js, PHP, Laravel, MySQL, MongoDB, Websockets  
 * APIs: RESTful APIs, GraphQL, Axios
 
 ### Design Tools
-* Figma, Sketch, Adobe XD, InVision, Photoshop  
+* Figma, Sketch, Adobe XD, InVision, Photoshop, Storybook  
 
 </div>  
 
