@@ -16,15 +16,15 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 ### Tools & Platforms
 * Version Control: Git, GitHub, Bitbucket  
 * Build Tools: Webpack, Babel, Gulp, NPM  
-* Cloud & CI/CD: AWS, Firebase, Docker, Jenkins
+* Cloud & CI/CD: AWS, Firebase, Docker, Jenkins, Kubernetes
 
 ### Frameworks & Libraries
-* CSS: Tailwind CSS, Bootstrap, Material-UI  
+* CSS: Tailwind CSS, Bootstrap, Material-UI, SASS, LESS  
 * JavaScript: React, Angular, Vue.js, Next.js, Redux, jQuery
 * Testing: Jest, Mocha, Jasmine, Cypress
 
 ### Additional Technical Skills
-* Backend: Node.js, Express.js, PHP, Laravel, MySQL, MongoDB, Websockets  
+* Backend: Node.js, Express.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets  
 * APIs: RESTful APIs, GraphQL, Axios
 
 ### Design Tools
