@@ -3,15 +3,15 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Senior Web Developer with 12+ years of expertise in building high-performance web applications using Angular and modern front-end technologies. Proven track record of delivering responsive, accessible solutions while collaborating closely with cross-functional teams. Passionate about mentoring team members and optimizing development processes to achieve seamless user experiences.  
 
 ## SKILLS
 
-* __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Libraries & Frameworks:__ React, Angular, Vue.js, Next.js, Redux, jQuery  
+* __Front-End Development:__ HTML5, CSS3, SCSS, TypeScript, Angular
+* __JS Libraries & Frameworks:__ Angular, React, Vue.js, Next.js, jQuery
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
-* __Performance & Optimization:__ Lighthouse, CDN, code splitting, image optimization
+* __Performance & Optimization:__ Lighthouse, CDN, API Integration, code splitting, image optimization
 * __Version Control:__ Git, GitHub, Bitbucket  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM  
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
@@ -37,9 +37,12 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### AIM Consulting Group <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 
-* Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid, enhancing user interaction.
-* Streamlined API integrations for user management application, ensuring seamless data fetching and manipulation.
-* Collaborated with the design team to apply Material Design principles, creating a cohesive and intuitive user experience.
+* Utilized the Angular component-based architecture to ensure modular and maintainable code.
+* Applied Material Design principles to create an intuitive user experience and a cohesive visual language across the application.
+* Leveraged AG Grid's advanced features, such as infinite scrolling, column pinning, and row grouping, to enhance data presentation.
+* Integrated backend REST APIs to fetch, display, and manipulate data in real-time.
+* Used the Angular Internationalization (i18n) tools to extract messages and dynamically load translation files based on user preferences.
+* Integrated Auth0 for secure and seamless user authentication and authorization.
 
 ---
 
