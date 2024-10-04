@@ -6,31 +6,20 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
 
 ## SKILLS
-<div class="grid">  
 
-### Core Competencies
-* Front-End Development: HTML, CSS, JavaScript (ES6+), TypeScript
-* UI/UX Design: Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
-* Performance & Optimization: Lighthouse, CDN, code splitting, image optimization
+* __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript
+* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
+* __Performance & Optimization:__ Lighthouse, CDN, code splitting, image optimization
+* __Version Control:__ Git, GitHub, Bitbucket  
+* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM  
+* __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
+* __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
+* __JS Libraries & Frameworks:__ React, Angular, Vue.js, Next.js, Redux, jQuery
+* __Testing:__ Jest, Mocha, Jasmine, Cypress
+* __Backend:__ Node.js, Express.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets  
+* __APIs:__ RESTful APIs, GraphQL, Axios
+* __Design Tools:__ Figma, Sketch, Adobe XD, Photoshop, Storybook  
 
-### Tools & Platforms
-* Version Control: Git, GitHub, Bitbucket  
-* Build Tools: Webpack, Babel, Gulp, NPM  
-* Cloud & CI/CD: AWS, Firebase, Docker, Jenkins, Kubernetes
-
-### Frameworks & Libraries
-* CSS: Tailwind CSS, Bootstrap, Material-UI, SASS, LESS  
-* JavaScript: React, Angular, Vue.js, Next.js, Redux, jQuery
-* Testing: Jest, Mocha, Jasmine, Cypress
-
-### Additional Technical Skills
-* Backend: Node.js, Express.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets  
-* APIs: RESTful APIs, GraphQL, Axios
-
-### Design Tools
-* Figma, Sketch, Adobe XD, InVision, Photoshop, Storybook  
-
-</div>  
 
 ## EXPERIENCE  
 
@@ -82,6 +71,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 </div></div>
 ---
 <!--BREAK-->
+
 ### Vice President, Institutional Securities Technology
 <div class="grid"><div class="col-1">
 
