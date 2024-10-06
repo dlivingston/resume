@@ -5,15 +5,18 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Manager,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I am excited to apply for the Senior Front End Consultant position at Vercel. With over 12 years of experience as a Senior Web and UI/UX Developer, I have a strong background in architecting and delivering high-performance applications using Next.js and React. My expertise lies in pushing the boundaries of web performance and user experience, which aligns perfectly with Vercel's mission to enable developers to build scalable and secure web applications.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+Throughout my career, I have successfully led technical discovery sessions, translating complex client needs into elegant, user-friendly solutions. I have a proven track record of mentoring development teams in best practices, particularly with Next.js and modern frontend technologies. My ability to balance creative design with robust development has allowed me to create seamless and dynamic user experiences for diverse clients.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+I am particularly drawn to Vercel because of your commitment to innovation and your focus on empowering developers. I am eager to contribute to groundbreaking Next.js projects and to collaborate with high-profile clients while continuously learning and sharing my insights within the community.
 
-Best Wishes,  
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experience can contribute to the success of Vercel.
+
+Best Wishes,
+
 Donald Livingston
 
 </div>

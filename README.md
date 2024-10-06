@@ -3,21 +3,21 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Senior Web and UI/UX Developer with 12+ years of experience delivering high-impact digital solutions for diverse clients. Expert in architecting and developing complex, high-performance applications using Next.js and React, with a strong focus on server-side rendering and static site generation. Recognized for enhancing user experiences through performance optimization and implementing modern frontend architectures. Proven track record in leading technical discovery sessions, mentoring development teams, and contributing to the open-source community, driving client satisfaction and operational efficiency.
 
 ## SKILLS
 
-* __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Libraries & Frameworks:__ React, Angular, Vue.js, Next.js, Redux, jQuery  
-* __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
-* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
-* __Performance & Optimization:__ Lighthouse, CDN, code splitting, image optimization
-* __Version Control:__ Git, GitHub, Bitbucket  
-* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM  
-* __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Testing:__ Jest, Mocha, Jasmine, Cypress
-* __Backend:__ Node.js, Express.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
-* __Design Tools:__ Figma, Sketch, Adobe XD, Photoshop, Storybook  
+* __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript
+* __JS Libraries & Frameworks:__ React, Next.js, Vue.js, Angular, Redux, jQuery
+* __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)
+* __Architectural Expertise:__ Server-Side Rendering (SSR), Static Site Generation (SSG), Incremental Static Regeneration (ISR)
+* __Performance Optimization:__ Lighthouse, Vercel Speed Insights, CDN, code splitting, image optimization
+* __Cloud & CI/CD:__ Vercel, AWS, Firebase, Docker, Jenkins, Kubernetes
+* __API Integration:__ RESTful APIs, GraphQL, Axios
+* __Version Control:__ Git, GitHub, Bitbucket
+* __Testing:__ Jest, Mocha, Cypress
+* __Design Tools:__ Figma, Sketch, Adobe XD, Photoshop, Storybook
+* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)
 
 
 ## EXPERIENCE  
