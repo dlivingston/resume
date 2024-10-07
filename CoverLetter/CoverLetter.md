@@ -5,15 +5,18 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Manager,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I am thrilled to apply for the Staff Web Engineer position on the UI Foundation team at Airbnb. With over 12 years of experience in web engineering, I have developed a strong expertise in building high-performance, accessible, and scalable frontend solutions using JavaScript and TypeScript, particularly with React.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+My experience includes architecting design systems that empower product teams to deliver premium-quality user interfaces. I have a deep understanding of motion animation development and have successfully collaborated with cross-platform teams to create reusable UI infrastructure that enhances engineering efficiency. My approach is always design-centric, ensuring that every solution aligns with both user experience and technical excellence.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+I am excited about the opportunity to work closely with world-class engineers and designers at Airbnb to influence UI engineering practices on a broader scale. I thrive in collaborative environments and look forward to contributing to new product initiatives while supporting the Airbnb Web community.
 
-Best Wishes,  
+Thank you for considering my application. I hope to discuss how my skills and experience can contribute to the ongoing success of the UI Foundation team.
+
+Best Wishes,
+
 Donald Livingston
 
 </div>

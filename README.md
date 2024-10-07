@@ -3,14 +3,14 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Staff Web Engineer with over 12 years of experience in building high-performance, accessible, and scalable web frontend solutions. Expert in modern JavaScript frameworks, particularly React, with a strong focus on UI design systems and motion animation development. Proven ability to drive technical strategy and improve client-side engineering efficiency, collaborating closely with cross-functional teams to deliver premium-quality, design-rich user interfaces. Passionate about enhancing developer productivity and advocating for best practices in UI development.  
 
 ## SKILLS
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
 * __JS Libraries & Frameworks:__ React, Angular, Vue.js, Next.js, Redux, jQuery  
-* __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
-* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
+* __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS), CSS Animations
+* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Design Systems, Accessibility (WCAG, ARIA)  
 * __Performance & Optimization:__ Lighthouse, CDN, code splitting, image optimization
 * __Version Control:__ Git, GitHub, Bitbucket  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM  
