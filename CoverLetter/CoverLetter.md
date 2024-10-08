@@ -5,15 +5,18 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Manager,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I am excited to apply for the Senior Software Engineer, Core UI position at Lattice. With over 12 years of experience in software engineering, I have developed a strong expertise in building and maintaining high-performance applications using modern frameworks such as React, Relay, and Next.js. My focus on creating cohesive and accessible user experiences aligns perfectly with Lattice's mission to build a people success platform.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+In my previous roles, I have successfully architected and maintained design systems that facilitate collaboration across engineering, product, and design teams. I am passionate about developing reusable front-end components that promote consistency and efficiency throughout the product suite. Additionally, I have a track record of mentoring junior engineers and advocating for best practices in accessibility and clean code.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+I am particularly drawn to Lattice because of your commitment to creating a people-centric culture, and I am eager to contribute my skills to enhance the overall product experience. I am excited about the opportunity to work closely with a collaborative team and to play a role in minimizing redundancy while accelerating development processes.
 
-Best Wishes,  
+Thank you for considering my application. I look forward to discussing how my skills and experience can contribute to the ongoing success of the Core UI team at Lattice.
+
+Best Wishes,
+
 Donald Livingston
 
 </div>
