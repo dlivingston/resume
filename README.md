@@ -7,18 +7,24 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 ## SKILLS
 
+<div class="skills"><div class="icon-col">
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/html.svg" alt="HTML" />
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/css.svg" alt="CSS" />
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/js.svg" alt="JavaScript" />
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/ts.svg" alt="TypeScript" />
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/nodejs.svg" alt="Node.js" />
+</div><div class="skill-col">
+
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Libraries & Frameworks:__ React, Angular, Vue.js, Next.js, Redux, jQuery  
+* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
-* __Performance & Optimization:__ Lighthouse, CDN, code splitting, image optimization
-* __Version Control:__ Git, GitHub, Bitbucket  
-* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM  
+* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Testing:__ Jest, Mocha, Jasmine, Cypress
-* __Backend:__ Node.js, Express.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
-* __Design Tools:__ Figma, Sketch, Adobe XD, Photoshop, Storybook  
+* __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
+* __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
+</div></div>
 
 ## EXPERIENCE  
 <div class="experience">
@@ -52,7 +58,6 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
 
 ---
-<!--BREAK-->
 
 ### Vice President, Institutional Securities Technology
 
@@ -63,6 +68,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 <!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
 
 ---
+<!--BREAK-->
 
 ### Senior UX Developer
 
@@ -70,6 +76,8 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
 * Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
+* Refreshed Customer Signup/Login flow to help improve customer experience and security. 
+* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
 * Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
 
 ---
@@ -86,20 +94,10 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 ### Freelance Web & UI Developer
 
-#### Freelance Contractor <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2016 - 10/2017_  
+#### Freelance Contractor <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2015 - 10/2017_  
 
 * Managed multiple short-term projects, including website redesigns and new application designs, tailoring solutions to client needs and enhancing user experiences.
 * Implemented new features and fixes for various web applications, ensuring high-quality deliverables and client satisfaction.
-
----
-
-### Senior App Developer
-
-#### Maverik Inc. <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2016 - 09/2016_  
-
-* Led the complete rebuild of the Maverik Real Estate Management application, enhancing functionality and user experience through modern design practices.
-* Collaborated with cross-functional teams to implement updates to the Maverik Rewards Manager app, ensuring seamless integration of new features.
-<!-- * Optimized internal store management processes through enhancements to the Triton application, improving overall operational efficiency. -->
 
 ---
 
@@ -109,7 +107,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Played a key role in multiple product launches, contributing to the migration to responsive web design and enhancing user accessibility.
 * Worked collaboratively on the migration to the Magento e-commerce platform, ensuring a seamless transition and improved user experience.
-<!-- * Developed promotional web pages and designed engaging web banners, boosting brand presence during key marketing campaigns. -->
+* Developed promotional web pages and designed engaging web banners, boosting brand presence during key marketing campaigns.
 
 ---
 
@@ -124,6 +122,8 @@ Bachelor of Science (BS), Computer Science (unfinished) 2007 - 2009
 
 ## PORTFOLIO & LINKS
 Personal Website & Portfolio: [https://donaldlivingston.com](https://donaldlivingston.com)  
+
+Professional Intro Video: [https://youtube.com/shorts/mww4J0-oL8k](https://youtube.com/shorts/mww4J0-oL8k)
 
 LinkedIn Profile: [https://www.linkedin.com/in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)  
 

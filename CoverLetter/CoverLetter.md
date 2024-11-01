@@ -21,6 +21,8 @@ Donald Livingston
 ## PORTFOLIO & LINKS
 Personal Website & Portfolio: [https://donaldlivingston.com](https://donaldlivingston.com)  
 
+Professional Intro Video: [https://youtube.com/shorts/mww4J0-oL8k](https://youtube.com/shorts/mww4J0-oL8k)
+
 LinkedIn Profile: [https://www.linkedin.com/in/donaldlivingston](https://www.linkedin.com/in/donaldlivingston)  
 
 GitHub Profile: [https://github.com/dlivingston](https://github.com/dlivingston)  

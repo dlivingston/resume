@@ -220,6 +220,18 @@ caption,col,colgroup,table,tbody,td,tfoot,th,thead,tr {
     margin: 0;
 }
 
+.skills {
+    display: grid;
+    grid-template-columns: 25px 2fr;
+}
+
+.skills .icon-col {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
 .cover-letter-content {
     margin: 2rem 0;
 }
