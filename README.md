@@ -130,3 +130,7 @@ LinkedIn Profile: [https://www.linkedin.com/in/donaldlivingston](https://www.lin
 GitHub Profile: [https://github.com/dlivingston](https://github.com/dlivingston)  
 
 Presentation at UtahJS Conference 2019: [https://www.youtube.com/watch?v=iOZvkuTki2s](https://www.youtube.com/watch?v=iOZvkuTki2s)  
+
+---
+
+### Version October 2024
