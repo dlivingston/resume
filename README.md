@@ -16,9 +16,9 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 </div><div class="skill-col">
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __JS Frameworks & Libraries:__ Angular (v2.0+), React, Vue.js, Next.js, Redux, jQuery, Jest, Jasmine, Cypress
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
-* __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
+* __UI/UX Design:__ Wireframing, Prototyping, Responsive/Adaptive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
 * __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
@@ -43,7 +43,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### AIM Consulting Group <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 
-* Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid, enhancing user interaction.
+* Designed and implemented complex data presentation features like infinite scrolling and row grouping using Angular and AG Grid, enhancing user interaction.
 * Streamlined API integrations for user management application, ensuring seamless data fetching and manipulation.
 * Collaborated with the design team to apply Material Design principles, creating a cohesive and intuitive user experience.
 
@@ -53,9 +53,9 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Deloitte Digital <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 
-* Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
+* Developed custom Vue.js and Angular components to support diverse projects, including an AI chatbot and an internal style guide for a CDC website.
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
-* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
+* Ensured coding best practices were followed, improving development efficiency and long-term maintainability.
 
 ---
 
@@ -63,8 +63,8 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Morgan Stanley <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 
-* Enhanced the user interface of a financial planning workbench application, focusing on usability improvements and streamlining user workflows.
-* Collaborated with cross-functional teams to modernize the Angular framework, ensuring alignment with current industry standards.
+* Modernized Angular framework to align with current industry standards, ensuring enhanced performance and maintainability for critical financial applications.
+* Collaborated with cross-functional teams to design responsive user interfaces, leveraging Angular's capabilities to deliver seamless desktop and mobile experiences.
 <!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
 
 ---

@@ -27,13 +27,13 @@
 body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Helvetica Neue', sans-serif;
-    font-size:9pt;
+    font-size: 10px;
     color: rgb(var(--text-color));
     margin: 0;
 }
 
 html>body {
-    font-size: 9pt;
+    font-size: 10px;
 }
 
 li {
@@ -366,7 +366,7 @@ sub {
 }
 
 p,h5 {
-    line-height: 1.3125em;
+    line-height: 1.25em;
 }
 
 dt,th {
