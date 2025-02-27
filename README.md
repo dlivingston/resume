@@ -22,7 +22,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
 * __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
-* __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
+* __Design Systems & Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook, Component Libraries  
 
 </div></div>
 
@@ -35,6 +35,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Revamped UI with React and Tailwind CSS, improving responsiveness and consistency across devices.
 * Contributed to the development of award-winning QuProtect Software by collaborating with cross-functional teams to refine the user interface.
+* Enhanced the UI library with reusable, scalable components, ensuring design consistency across applications
 * Led code reviews and conducted usability assessments to enhance the product’s user experience.
 
 ---
@@ -55,7 +56,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
-* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
+* Developed reusable Vue.js and Web Components for an AI chatbot, integrating them into a broader design system.
 
 ---
 
@@ -77,7 +78,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
 * Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
 * Refreshed Customer Signup/Login flow to help improve customer experience and security. 
-* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
+* Led the development of a reusable React component library using Next.js and Storybook, ensuring UI consistency across platforms.
 * Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
 
 ---
