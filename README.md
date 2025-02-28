@@ -3,7 +3,7 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven expertise in crafting scalable, high-performance front-end systems that enhance user experiences and streamline business operations. 
 
 ## SKILLS
 
@@ -16,11 +16,11 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 </div><div class="skill-col">
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __JS Frameworks & Libraries:__ React, Angular, Vue (2/3), Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
-* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
-* __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
+* __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket, WebAssembly (WASM)    
+* __DevOps & CI/CD:__ AWS, Firebase, Docker, Jenkins, CircleCI, Kubernetes
 * __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
@@ -33,7 +33,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### QuSecure <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2024 - 07/2024_  
 
-* Revamped UI with React and Tailwind CSS, improving responsiveness and consistency across devices.
+* Led UI enhancements with React and Tailwind CSS, achieving improved cross-device responsiveness and consistency.
 * Contributed to the development of award-winning QuProtect Software by collaborating with cross-functional teams to refine the user interface.
 * Led code reviews and conducted usability assessments to enhance the product’s user experience.
 
@@ -55,7 +55,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
-* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
+* Developed custom Vue 3 components for an AI chatbot interface, elevating the user interaction experience.
 
 ---
 
@@ -63,8 +63,8 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Morgan Stanley <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 
-* Enhanced the user interface of a financial planning workbench application, focusing on usability improvements and streamlining user workflows.
-* Collaborated with cross-functional teams to modernize the Angular framework, ensuring alignment with current industry standards.
+* Developed advanced AG Grid features, enabling seamless infinite scrolling and structured data grouping for a financial dashboard.
+* Redesigned key UI components in an Angular financial workbench, reducing user friction and improving workflow efficiency.
 <!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
 
 ---
@@ -74,7 +74,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Fashionphile <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Lehi, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 
-* Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
+* Developed a Vue.js-based inventory portal for Neiman Marcus, enabling seamless cross-company product tracking and processing.
 * Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
 * Refreshed Customer Signup/Login flow to help improve customer experience and security. 
 * Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
