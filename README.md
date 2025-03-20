@@ -21,7 +21,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
+* __Backend:__ Node.js, PHP, Laravel, Python, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
 </div></div>
@@ -53,9 +53,9 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### AIM Consulting Group <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 
-* Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid, enhancing user interaction.
-* Streamlined API integrations for user management application, ensuring seamless data fetching and manipulation.
-* Collaborated with the design team to apply Material Design principles, creating a cohesive and intuitive user experience.
+* Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid and Material-UI, enhancing user interaction.
+* Streamlined REST integrations for user management application using mock Python API, ensuring seamless data fetching and manipulation.
+* Collaborated with the design team to implement Material-UI based application, creating a cohesive and intuitive user experience.
 
 ---
 
@@ -63,8 +63,8 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Deloitte Digital <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 
-* Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
-* Managed regular standup meetings, ensuring timely communication and adherence to project goals.
+* Spearheaded the establishment of a style guide based on wireframes and coding best practices for CDC’s informational website using React.js, improving development efficiency.
+* Managed regular standup meetings and sprint planning, ensuring timely communication and adherence to project goals.
 * Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
 
 ---
@@ -76,7 +76,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Enhanced the user interface of a financial planning workbench application, focusing on usability improvements and streamlining user workflows.
 * Collaborated with cross-functional teams to modernize the Angular framework, ensuring alignment with current industry standards.
-<!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
+* Conducted user testing and feedback sessions to refine Material-UI components and improve overall user experience.
 
 ---
 
