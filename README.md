@@ -29,6 +29,16 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 ## EXPERIENCE  
 <div class="experience">
 
+### Founder & Lead Developer
+
+#### DL WebWorx LLC <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _08/2024 - Present_  
+
+* Provided front-end development and UI/UX consulting services for clients, focusing on React, Vue.js, and Angular-based applications.
+* Designed and implemented scalable, responsive web solutions with a focus on performance optimization and accessibility.
+* Collaborated with stakeholders to define project requirements, refine user experiences, and enhance digital branding.
+
+---
+
 ### Senior Software Engineer (Front End)
 
 #### QuSecure <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _02/2024 - 07/2024_  
@@ -58,6 +68,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
 
 ---
+<!--BREAK-->
 
 ### Vice President, Institutional Securities Technology
 
@@ -68,7 +79,6 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 <!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
 
 ---
-<!--BREAK-->
 
 ### Senior UX Developer
 
