@@ -21,7 +21,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
+* __Backend:__ Node.js, PHP, Laravel, Wordpress (Core, Themes, & Plugins), MySQL, RESTful APIs, Headless CMS
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
 </div></div>
@@ -107,6 +107,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 #### Freelance Contractor <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2015 - 10/2017_  
 
 * Managed multiple short-term projects, including website redesigns and new application designs, tailoring solutions to client needs and enhancing user experiences.
+* Developed and customized WordPress websites for small businesses, including theme customization, plugin integration, and content management.
 * Implemented new features and fixes for various web applications, ensuring high-quality deliverables and client satisfaction.
 
 ---
