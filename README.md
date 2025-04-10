@@ -21,7 +21,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
+* __Backend:__ Node.js, PHP, Laravel, Wordpress, Drupal, MySQL, RESTful APIs, GraphQL, Axios
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
 </div></div>
@@ -98,6 +98,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Delivered web solutions for high-profile clients, including MRM/McCann and Cisco, ensuring alignment with client specifications and industry best practices.
 * Designed and implemented engaging web UI applications and promotional landing pages, contributing to enhanced brand visibility and user engagement.
+* Developed and maintained Drupal websites for enterprise clients, including custom module development and integration with existing systems.
 <!-- * Utilized database-driven MVC frameworks to streamline project development and improve application performance. -->
 
 ---
@@ -107,7 +108,9 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 #### Freelance Contractor <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _10/2015 - 10/2017_  
 
 * Managed multiple short-term projects, including website redesigns and new application designs, tailoring solutions to client needs and enhancing user experiences.
-* Implemented new features and fixes for various web applications, ensuring high-quality deliverables and client satisfaction.
+* Developed and customized WordPress websites for small businesses, including theme customization, plugin integration, and content management.
+* Built and maintained Drupal-based websites, implementing custom modules and ensuring optimal performance and security.
+<!-- * Implemented new features and fixes for various web applications, ensuring high-quality deliverables and client satisfaction. -->
 
 ---
 
@@ -116,7 +119,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 #### ZAGG Inc. <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Salt Lake City, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2012 - 10/2015_  
 
 * Played a key role in multiple product launches, contributing to the migration to responsive web design and enhancing user accessibility.
-* Worked collaboratively on the migration to the Magento e-commerce platform, ensuring a seamless transition and improved user experience.
+<!-- * Worked collaboratively on the migration to the Magento e-commerce platform, ensuring a seamless transition and improved user experience. -->
 * Developed promotional web pages and designed engaging web banners, boosting brand presence during key marketing campaigns.
 
 ---
