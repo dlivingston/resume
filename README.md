@@ -3,7 +3,8 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, implementing modern front-end architecture, and mentoring teams to adopt scalable front-end practices.
+
 
 ## SKILLS
 
@@ -16,7 +17,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 </div><div class="skill-col">
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __JS Frameworks & Libraries:__ jQuery, React, Angular, Vue.js, Next.js, Redux, Jest, Mocha, Jasmine, Cypress
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
@@ -35,7 +36,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Provided front-end development and UI/UX consulting services for clients, focusing on React, Vue.js, and Angular-based applications.
 * Designed and implemented scalable, responsive web solutions with a focus on performance optimization and accessibility.
-* Collaborated with stakeholders to define project requirements, refine user experiences, and enhance digital branding.
+* Experience debugging and optimizing legacy codebases, resolving plugin conflicts and improving legacy architecture.
 
 ---
 
@@ -65,7 +66,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
-* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
+* Mentored team members by documenting best practices and providing hands-on guidance during technical audits and code refactoring.
 
 ---
 <!--BREAK-->
@@ -87,7 +88,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
 * Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
 * Refreshed Customer Signup/Login flow to help improve customer experience and security. 
-* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
+* Diagnosed and resolved critical performance issues in legacy front-end code, including JavaScript collisions, redundant selectors, and inefficient DOM manipulation.
 * Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
 
 ---
