@@ -5,15 +5,17 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Manager,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I’m a Senior Front-End Web and UI Developer with over 12 years of experience building fast, accessible, and visually compelling web applications. I specialize in creating clean, maintainable code and intuitive user experiences—always with an eye toward performance, SEO, and responsive design.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+Throughout my career, I’ve worked with modern frameworks like React and Vue, implemented testing strategies across multiple layers (unit, integration, functional), and collaborated with cross-functional teams to deliver scalable front-end solutions. My approach bridges the creative and analytical—blending design sensibility with engineering discipline to produce cohesive digital experiences.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+The opportunity at Nuna caught my attention because it aligns closely with both my technical skill set and my passion for high-quality, user-centered development. I’d welcome the chance to contribute to your team and support Nuna’s growth as a premium global brand.
 
-Best Wishes,  
+Thank you for considering my application. I invite you to review my portfolio and other materials linked below, and I look forward to the possibility of speaking further.
+
+Best regards,
 Donald Livingston
 
 </div>
