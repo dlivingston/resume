@@ -5,15 +5,17 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Team,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I’m a Senior Front-End Web and UI Developer with over 12 years of experience creating responsive, performant, and user-focused digital experiences. I’m excited by your mission to redefine how people interact with AI and the opportunity to help shape that experience as a founding frontend engineer.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+My career has focused on building intuitive interfaces with React, TypeScript, and modern tools like Next.js, all while collaborating closely with design and product teams. I bring a strong background in UI/UX design principles, accessibility, and component architecture—skills I’ve applied in both large-scale systems and rapid prototyping environments. I'm also deeply familiar with integrating frontend apps with RESTful APIs and GraphQL backends.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+What draws me to this opportunity is the chance to contribute to a team that values clean, maintainable code and thoughtful user experience at the ground level. I thrive in collaborative, fast-moving environments and would love to help bring your platform to life.
 
-Best Wishes,  
+Thank you for considering my application. You can find work samples, a brief intro video, and more about me through the links below.
+
+Best regards,
 Donald Livingston
 
 </div>
