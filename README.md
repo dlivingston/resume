@@ -3,7 +3,7 @@
 ## Senior Web & UI/UX Developer
 _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, delivering high-impact digital solutions for diverse clients. Known for building scalable, clean, and maintainable front-end systems, I merge creative design with robust development. Proven track record of enhancing user experiences, driving performance optimizations, and implementing modern front-end architectures that boost client satisfaction and operational efficiency.  
+Accomplished Senior Web and UI/UX Developer with 12+ years of expertise leading front-end teams and delivering scalable, component-driven design systems. Known for uniting modern frameworks like Vue.js and Web Components with clean, maintainable code to create performant and accessible user interfaces. Skilled in mentoring developers, collaborating across disciplines, and driving adoption of modern front-end practices. Proven record of enhancing user experiences and shipping impactful solutions in fast-paced, enterprise environments.
 
 ## SKILLS
 
@@ -12,17 +12,20 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 <img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/css.svg" alt="CSS" />
 <img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/js.svg" alt="JavaScript" />
 <img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/ts.svg" alt="TypeScript" />
+<img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/vue.svg" alt="Vue.js" />
 <img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/nodejs.svg" alt="Node.js" />
 </div><div class="skill-col">
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __JS Frameworks & Libraries:__ React, Angular, Vue, Next.js, Redux, Web Components, jQuery, Jest, Mocha, Cypress  
+* __CMS & Platforms:__ Wordpress, Contentful, Magento, Adobe Experience Manager (familiarity)
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
 * __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
+* __Leadership & Agile:__ Technical Leadership, Agile/Scrum, Mentorship, Cross-Functional Collaboration  
 
 </div></div>
 
@@ -33,8 +36,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### DL WebWorx LLC <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _08/2024 - Present_  
 
-* Provided front-end development and UI/UX consulting services for clients, focusing on React, Vue.js, and Angular-based applications.
-* Designed and implemented scalable, responsive web solutions with a focus on performance optimization and accessibility.
+* Provided front-end development and UI/UX consulting services for clients, focusing on React and Vue-based applications.
 * Collaborated with stakeholders to define project requirements, refine user experiences, and enhance digital branding.
 
 ---
@@ -45,7 +47,8 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Revamped UI with React and Tailwind CSS, improving responsiveness and consistency across devices.
 * Contributed to the development of award-winning QuProtect Software by collaborating with cross-functional teams to refine the user interface.
-* Led code reviews and conducted usability assessments to enhance the product’s user experience.
+* Led code reviews and introduced component-based development strategies to enhance maintainability and performance.
+* Participated in establishing internal UI libraries and prototyping workflows aligned with product and UX objectives.
 
 ---
 
@@ -64,11 +67,14 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 #### Deloitte Digital <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 
 * Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
+* Developed scalable, reusable Vue.js and React components for content-heavy experiences in CMS-integrated environments.
+
+<!--BREAK-->
+_(Deloitte Digital - continued)_  
+* Partnered with design and content teams to deliver WCAG-compliant, component-driven front-end systems using agile methodologies.  
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
-* Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
 
 ---
-<!--BREAK-->
 
 ### Vice President, Institutional Securities Technology
 
@@ -85,10 +91,9 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 #### Fashionphile <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Lehi, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 
 * Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
+* Led development of a reusable component system in Vue.js, improving consistency across multiple teams and projects.
 * Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
-* Refreshed Customer Signup/Login flow to help improve customer experience and security. 
-* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
-* Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
+* Mentored junior developers and collaborated cross-functionally to implement new UX design standards and code reviews.
 
 ---
 
@@ -117,7 +122,6 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 * Played a key role in multiple product launches, contributing to the migration to responsive web design and enhancing user accessibility.
 * Worked collaboratively on the migration to the Magento e-commerce platform, ensuring a seamless transition and improved user experience.
-* Developed promotional web pages and designed engaging web banners, boosting brand presence during key marketing campaigns.
 
 ---
 
