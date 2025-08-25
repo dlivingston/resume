@@ -16,12 +16,12 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 </div><div class="skill-col">
 
 * __Front-End Development:__ HTML, CSS, JavaScript (ES6+), TypeScript  
-* __JS Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __Frameworks & Libraries:__ React, Angular, Vue.js, Next.js, Laravel, Redux, jQuery, Jest, Mocha, Jasmine, Cypress
+* __Backend & APIs:__ PHP, Node.js, MySQL, MongoDB, RESTful APIs, GraphQL, Axios, Websockets
 * __CSS & UI Frameworks:__ Tailwind CSS, Bootstrap, Material-UI, CSS Preprocessors (SASS/LESS)  
 * __UI/UX Design:__ Wireframing, Prototyping, Responsive Design, Accessibility (WCAG, ARIA)  
 * __Development & Build Tools:__ Webpack, Babel, Gulp, NPM, Git, GitHub, Bitbucket    
 * __Cloud & CI/CD:__ AWS, Firebase, Docker, Jenkins, Kubernetes
-* __Backend:__ Node.js, PHP, Laravel, Java, MySQL, MongoDB, Websockets, RESTful APIs, GraphQL, Axios
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
 
 </div></div>
@@ -66,6 +66,7 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 * Spearheaded the establishment of a style guide and coding best practices for CDC’s informational website using React.js, improving development efficiency.
 * Managed regular standup meetings, ensuring timely communication and adherence to project goals.
 * Developed custom Vue.js components for an AI chatbot interface, elevating the user interaction experience.
+* Ensured compliance with WCAG accessibility standards in UI component development.
 
 ---
 <!--BREAK-->
@@ -84,11 +85,14 @@ Accomplished Senior Web and UI/UX Developer with 12+ years of expertise, deliver
 
 #### Fashionphile <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _Lehi, UT_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _12/2018 - 03/2021_  
 
-* Drove the creation of a Vue.js-based web application for Neiman Marcus, facilitating seamless inventory access for store associates and enhancing operational efficiency.
-* Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines and improving deployment workflows.
-* Refreshed Customer Signup/Login flow to help improve customer experience and security. 
-* Guided the creation and implementation of a React component library using Next.js based on updated Style Guides.
-* Mentored junior developers, fostering a culture of continuous learning and adherence to best practices in coding standards.
+
+* Built and maintained full-stack features using Vue.js and Laravel for internal tools and partner-facing applications.  
+* Developed the Neiman Marcus associate portal prototype with Vue.js and Laravel, enabling real-time access to Fashionphile’s inventory system.  
+* Integrated Laravel-based APIs to streamline inventory, authentication, and customer management workflows.  
+* Revamped CSS and JavaScript build processes, optimizing integration with AWS CI/CD pipelines.  
+* Refreshed customer signup/login flows, improving both security and usability.  
+* Mentored junior developers and contributed to coding standards across Vue.js and PHP/Laravel projects.  
+
 
 ---
 
