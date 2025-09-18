@@ -5,15 +5,17 @@ _Pottstown PA, USA <img style="max-width: 12px; vertical-align: middle; margin: 
 
 <div class="cover-letter-content">
 
-Dear Hiring Manager,  
+Dear Hiring Manager,
 
-Greetings! I am a Senior Web and User Interface (UI/UX) Developer with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+I am excited to apply for the Application Developer position with Dow Jones. With over 12 years of experience in front-end development and user experience design, I specialize in building clean, maintainable code and intuitive, visually engaging interfaces. I balance creativity with technical precision - a skillset well suited for innovative storytelling and newsroom applications.
 
-I am confident that my skills and experience in Front-End web technologies and frameworks will be a valuable addition to your team. I would like to thank you in advance for taking the time to review my skills and experience. You can view examples of my work in my portfolio and the links provided below.  
+While I have not worked directly in a newsroom, I bring extensive experience thriving under high-pressure, deadline-driven conditions. For example, as a consultant with MRM//McCann, I collaborated with designers, marketers, and project managers to deliver digital campaigns on accelerated timelines, requiring rapid prototyping, iteration, and cross-disciplinary communication. Similarly, in roles across e-commerce and healthcare, I have partnered closely with designers, product owners, and engineering teams to create interactive tools that support both business goals and user needs.
 
-I hope to have the opportunity to discuss my qualifications and experience with you in greater detail.  
+My technical expertise includes foundational web technologies such as HTML, CSS, JavaScript and PHP, along with modern frameworks such as React, Node.js, and Express.js, and build tools including Webpack and Gulp. I am also experienced with API integration, analytics, cross-device development, and UI/UX design principles — all critical for building and maintaining newsroom applications that are performant, scalable, and easy to use. I’m adept at translating complex needs into usable digital tools — skills I believe will serve reporters, editors, and visual journalists well. 
 
-Best Wishes,  
+I would welcome the opportunity to bring this blend of technical and creative problem-solving to Dow Jones’ Storytelling and Visuals team. Thank you for considering my application. I look forward to the possibility of discussing how my experience can contribute to your team’s innovative work.
+
+Best regards,  
 Donald Livingston
 
 </div>
