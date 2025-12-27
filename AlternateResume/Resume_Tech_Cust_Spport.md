@@ -1,7 +1,7 @@
-# <img style="max-width: 40px; vertical-align: middle;" width="40" height="40" src="icons/DL-logo-black-trans.png" alt="DL Logo" /> Donald Livingston
+# <img style="max-width: 40px; vertical-align: middle;" width="40" height="40" src="../icons/DL-logo-black-trans.png" alt="DL Logo" /> Donald Livingston
 
 ## Senior Technical & Customer Support Specialist
-_Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
+_Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="../icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="../icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="../icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
 Experienced Technical & Customer Support Professional with 12+ years in customer-facing roles, providing expert assistance for complex software, networking, and financial technology products. Known for translating technical concepts into clear solutions, delivering exceptional customer experiences, and efficiently resolving issues across diverse technical environments. Proven track record of maintaining high customer satisfaction while supporting enterprise-level applications, conducting quality assurance testing, and mentoring team members.
 
@@ -22,7 +22,7 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 ## EXPERIENCE  
 <div class="experience">
 
-#### Software Support Specialist - Wasatch Computer Technology <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
+#### Software Support Specialist - Wasatch Computer Technology <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
 * Provided tier 2/3 technical support for Wasatch SoftRIP software, supporting commercial print operations worldwide
 * Conducted quality assurance testing for new print drivers and software releases, identifying critical bugs pre-launch
 * Validated hardware compatibility across diverse printer models and configurations, ensuring seamless deployments
@@ -31,7 +31,7 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 
 ---
 
-#### Customer Support Representative - Convergys <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Murray, UT_ 
+#### Customer Support Representative - Convergys <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Murray, UT_ 
 * Provided phone support for AT&T broadband customers, troubleshooting internet connectivity and service issues
 * Maintained high customer satisfaction scores while managing 40+ calls daily in fast-paced environment
 * Resolved technical issues including modem configuration, network troubleshooting, and service provisioning
@@ -40,7 +40,7 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 
 ---
 
-#### Technical Support Technician - Onyx Graphics <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Midvale, UT_ 
+#### Technical Support Technician - Onyx Graphics <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Midvale, UT_ 
 * Delivered technical support for Onyx PosterShop RIP software to commercial printing operations 
 * Troubleshot complex workflow issues involving color management, print queue optimization, and file processing
 * Assisted customers with software installation, configuration, and integration with various printer hardware
@@ -48,7 +48,7 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 
 ---
 
-#### Product Support Technician - CDI Corporation <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
+#### Product Support Technician - CDI Corporation <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
 * Provided first-level phone support for Intel networking devices including network adapters and switches
 * Guided customers through installation, configuration, and troubleshooting procedures
 * Escalated complex technical issues to engineering teams with detailed diagnostic information
@@ -56,7 +56,7 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 
 ---
 <!--BREAK-->
-#### Online Banking Support Technician - Zions Bank <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _West Valley City, UT_
+#### Online Banking Support Technician - Zions Bank <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _West Valley City, UT_
 * Assisted customers with online banking access using MS Money, Quicken, and web-based platforms
 * Resolved account access issues, password resets, and connectivity problems with financial software
 * Processed account inquiries while maintaining strict confidentiality and compliance standards
@@ -64,13 +64,13 @@ __Tools & Systems:__ Ticketing Systems (Jira, Zendesk, ServiceNow), CRM Platform
 
 ---
 
-#### Customer Support Representative - American Express <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
+#### Customer Support Representative - American Express <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Salt Lake City, UT_ 
 * Provided merchant verification services for American Express Travelers Cheques
 * Handled customer inquiries regarding travelers cheque policies, procedures, and fraud prevention
 
 ---
 
-#### Ritz Carlton Reservations Specialist - Marriott Reservations  <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Salt Lake City, UT_
+#### Ritz Carlton Reservations Specialist - Marriott Reservations  <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="../icons/location.svg" alt="Location: " /> _Salt Lake City, UT_
 * Assisted customers with hotel reservations and comprehensive vacation planning
 * Utilized reservation management systems to coordinate bookings across multiple properties
 * Provided product knowledge on hotel amenities, local attractions, and travel logistics
