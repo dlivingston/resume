@@ -1,0 +1,6 @@
+{
+  "markdown.styles": [
+    "./DL_MD_Styles.css"
+  ],
+  "markdown-pdf.outputDirectory": "./html"
+}
