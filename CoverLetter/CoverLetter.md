@@ -7,11 +7,13 @@ _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; ma
 
 Dear Hiring Manager,
 
-I’m a senior frontend engineer with 12+ years of experience building and owning scalable, user-centered web applications across product, enterprise, and consulting environments. My work focuses on frontend architecture, accessibility, and performance — delivering UI systems that are clear, maintainable, and built to evolve over time.
+I’m a senior frontend engineer with over 12 years of experience building and owning scalable web applications, with a strong focus on frontend architecture, design systems, and developer experience. I’m excited by the opportunity to join SoFi’s Web Core team, where the work centers on enabling consistency, performance, and scalability across a large and growing web ecosystem.
 
-I specialize in owning frontend work end to end: partnering with design and product, setting standards and structure, and translating requirements into high-quality interfaces using modern frontend technologies. I’ve worked extensively with React, TypeScript, Angular, and Vue, and I’m comfortable operating in complex, cross-functional environments where judgment and clarity matter.
+Throughout my career, I’ve worked on platform-adjacent frontend initiatives—designing shared component libraries, establishing frontend standards, and improving build and delivery workflows that multiple teams rely on. I’ve partnered closely with product, design, and infrastructure teams to translate broad organizational goals into practical, maintainable frontend systems that improve both user experience and developer efficiency.
 
-I’d welcome the opportunity to contribute that experience to your team. Examples of my work, along with additional background, can be found in my portfolio and links below. Thank you for your time and consideration.
+I’m particularly drawn to SoFi’s emphasis on reusable tooling, accessibility, performance, and long-term platform health. I enjoy working in environments where frontend engineers are expected to think beyond individual features and contribute to systems that scale across teams. I’m also excited by the team’s AI-first mindset and the opportunity to learn and apply emerging tools to improve developer experience and platform velocity.
+
+I’d welcome the opportunity to contribute my experience to SoFi’s Web Core team. Thank you for your time and consideration, and I look forward to the possibility of discussing how my background aligns with your goals.
 
 Best regards,  
 Donald Livingston
