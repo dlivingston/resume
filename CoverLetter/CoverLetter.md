@@ -7,11 +7,15 @@ _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; ma
 
 Dear Hiring Manager,
 
-I’m a senior frontend engineer with 12+ years of experience building and owning scalable, user-centered web applications across product, enterprise, and consulting environments. My work focuses on frontend architecture, accessibility, and performance — delivering UI systems that are clear, maintainable, and built to evolve over time.
+I’m excited to apply for the Senior Software Engineer (Full Stack) role at Setpoint. The opportunity to help shape DataOS - modernizing how critical data and documents are verified, stored, and trusted in asset-backed lending—aligns strongly with my background building high-impact, product-driven software in complex, regulated domains.
 
-I specialize in owning frontend work end to end: partnering with design and product, setting standards and structure, and translating requirements into high-quality interfaces using modern frontend technologies. I’ve worked extensively with React, TypeScript, Angular, and Vue, and I’m comfortable operating in complex, cross-functional environments where judgment and clarity matter.
+I bring over 12 years of experience as a senior frontend and full-stack engineer, with deep expertise in TypeScript and React and a strong track record of owning features end-to-end—from early design through production delivery. I’ve worked extensively on client-facing, mission-critical systems where clarity, performance, and trust matter, often operating in high-autonomy environments with evolving requirements. I’m especially drawn to Setpoint’s emphasis on ownership, speed, and close collaboration across product, design, and leadership.
 
-I’d welcome the opportunity to contribute that experience to your team. Examples of my work, along with additional background, can be found in my portfolio and links below. Thank you for your time and consideration.
+My experience spans building API-driven applications, designing reusable component systems, and partnering closely with backend and DevOps teams to deliver scalable solutions in cloud-based environments. While my strongest background is on the frontend, I’ve worked across the stack with Python-based services and data-centric systems, and I’m comfortable ramping quickly where needed to support end-to-end ownership. I also have a growing interest in applying AI and LLM-powered tooling responsibly to streamline workflows and improve user outcomes—particularly in document-heavy, compliance-sensitive contexts.
+
+What excites me most about Setpoint is the combination of real-world impact, technical depth, and product focus. I enjoy environments where engineers are trusted to make decisions, ask the right questions, and ship meaningful improvements that directly support customers and the business.
+
+I’d love the opportunity to contribute my experience, curiosity, and ownership mindset to the team and help shape the future of DataOS. Thank you for your time and consideration - I look forward to the possibility of connecting.
 
 Best regards,  
 Donald Livingston
