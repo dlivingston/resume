@@ -1,9 +1,13 @@
 # <img style="max-width: 40px; vertical-align: middle;" width="40" height="40" src="icons/DL-logo-black-trans.png" alt="DL Logo" /> Donald Livingston
 
-## Senior Frontend Engineer
+## Senior Frontend / UI Architect
+<div class="summary">
+
 _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Senior frontend engineer with 12+ years of experience building scalable, user-centered web applications. Specializes in frontend architecture, accessibility, and performance, with a strong track record of owning UI systems end to end across product, enterprise, and consulting environments.
+Senior frontend and UI architect with 12+ years of experience designing and scaling enterprise web applications. Specializes in frontend architecture, performance, accessibility, and UI standards, with a track record of owning foundational systems that enable teams to ship safely and consistently across complex product environments.
+
+</div>
 
 ## SKILLS
 
@@ -15,7 +19,7 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 <img style="max-width: 25px; vertical-align: middle;" width="25" height="25" src="icons/react.svg" alt="React" />
 </div><div class="skill-col">
 
-* __Frontend Architecture:__ Design Systems, Accessibility (WCAG), Performance Optimization  
+* __Frontend Architecture & Standards:__ Design Systems, UI Architecture, Accessibility (WCAG), Performance Optimization
 * __Frontend Technologies:__ React, TypeScript, JavaScript (ES6+), Angular, Vue.js, Tailwind CSS, HTML/CSS  
 * __UI Engineering:__ Component-Driven Development, Responsive Design, Data-Driven Interfaces   
 * __Backend Technologies:__ Node.js, PHP, RESTful APIs, Content Management Systems (CMS)  
@@ -33,9 +37,9 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 
 #### DL WebWorx LLC <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _08/2024 - Present_  
 
-* Own frontend and UI architecture for client projects end to end, from discovery and technical direction through implementation and delivery.
-* Design and build scalable, accessible web applications using React, Angular, and Vue, with an emphasis on performance, maintainability, and long-term clarity.
-* Partner directly with clients and stakeholders to translate business goals into thoughtful UX decisions and high-quality UI execution.
+* Served as frontend architect and technical lead for client engagements, defining UI architecture, standards, and long-term technical direction.
+* Designed and implemented scalable, accessible frontend systems using React, Angular, and Vue, prioritizing maintainability and predictable delivery.
+* Acted as senior technical partner to clients, guiding architectural decisions and reducing long-term risk in growing codebases.
 
 ---
 
@@ -63,10 +67,10 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 
 #### Deloitte Digital <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _09/2021 - 01/2023_  
 
-* Served as lead frontend engineer on a high-visibility CDC project, establishing a shared style guide and frontend standards to ensure consistency and accessibility.
-* Set technical direction and best practices for a React-based informational platform, balancing delivery speed with quality and correctness.
-* Led daily standups and collaborated closely with cross-functional teams to keep work aligned and unblocked.
-* Built custom Vue components for an AI-driven chatbot interface and contributed to an internal Angular application.
+* Served as lead frontend engineer and UI standards owner on a high-visibility CDC platform, establishing shared architecture, style guides, and accessibility standards.
+* Set frontend technical direction for a React-based enterprise platform, balancing delivery speed with long-term quality and correctness.
+* Mentored engineers and led code reviews to enforce consistency and sustainable patterns across teams.
+* Built Vue components for an AI-driven chatbot interface and contributed to internal Angular applications.
 
 ---
 <!--BREAK-->
@@ -75,9 +79,8 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 
 #### Morgan Stanley <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " />  _New York, NY_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _03/2021 - 09/2021_  
 
-* Enhanced the user interface of a financial planning workbench application, focusing on usability improvements and streamlining user workflows.
-* Collaborated with cross-functional teams to modernize the Angular framework, ensuring alignment with current industry standards.
-<!-- * Conducted user testing and feedback sessions to refine UI components and improve overall user experience. -->
+* Senior frontend engineer (Vice President title) contributing to the UI architecture of a financial planning workbench used by institutional clients.
+* Collaborated with cross-functional teams to modernize Angular-based systems and improve usability and workflow efficiency.
 
 ---
 
