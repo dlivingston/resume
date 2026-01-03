@@ -7,11 +7,11 @@ _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; ma
 
 Dear Hiring Manager,
 
-I’m a senior frontend engineer with 12+ years of experience building and owning scalable, user-centered web applications across product, enterprise, and consulting environments. My work focuses on frontend architecture, accessibility, and performance — delivering UI systems that are clear, maintainable, and built to evolve over time.
+I’m writing to apply for the Senior Principal UI Developer role with Oracle Health. With over 12 years of experience building large-scale, enterprise web applications, my focus has been on designing frontend systems that prioritize performance, accessibility, and long-term maintainability—particularly in environments where reliability and correctness are critical.
 
-I specialize in owning frontend work end to end: partnering with design and product, setting standards and structure, and translating requirements into high-quality interfaces using modern frontend technologies. I’ve worked extensively with React, TypeScript, Angular, and Vue, and I’m comfortable operating in complex, cross-functional environments where judgment and clarity matter.
+In my recent roles, I’ve operated as a senior individual contributor and UI architect, responsible for setting frontend standards, defining shared patterns, and building the structural foundations that enable teams to move quickly without sacrificing quality. I bring deep hands-on experience with TypeScript, React, and modern frontend tooling, and I’ve partnered closely with UX, backend, and platform teams to translate complex requirements into intuitive, scalable interfaces. Mentorship, code quality, and architectural rigor have been core parts of my day-to-day work.
 
-I’d welcome the opportunity to contribute that experience to your team. Examples of my work, along with additional background, can be found in my portfolio and links below. Thank you for your time and consideration.
+What draws me to Oracle Health is the opportunity to modernize the EHR experience with human-centered design, disciplined UI engineering, and emerging technologies like generative AI. I’m motivated by work where frontend rigor has real-world impact, and I’d welcome the opportunity to help shape standards and systems that support safe, scalable innovation in healthcare. Thank you for your time and consideration.
 
 Best regards,  
 Donald Livingston
