@@ -99,10 +99,14 @@ h6 {
     margin: 1.5em 0;
 }
 
-#seniorwebuiuxdeveloper + p>em {
+#seniorwebuiuxdeveloper + p>em, .summary + p>em {
     display: flex;
     align-items: center;
     margin: 0 0 0.5rem 0;
+}
+
+.summary p {
+    line-height: 1.5 !important;
 }
 
 #additionalskills + p {
@@ -240,7 +244,7 @@ caption,col,colgroup,table,tbody,td,tfoot,th,thead,tr {
 }
 
 .cover-letter-content p {
-    line-height: 1.5;
+    line-height: 1.6 !important;
     margin-bottom: 1rem;
 }
 

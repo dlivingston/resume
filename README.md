@@ -1,9 +1,13 @@
 # <img style="max-width: 40px; vertical-align: middle;" width="40" height="40" src="icons/DL-logo-black-trans.png" alt="DL Logo" /> Donald Livingston
 
 ## Senior Frontend Engineer
+<div class="summary">
+
 _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
 Senior frontend engineer with 12+ years of experience building scalable, user-centered web applications. Specializes in frontend architecture, accessibility, and performance, with a strong track record of owning UI systems end to end across product, enterprise, and consulting environments.
+
+</div>
 
 ## SKILLS
 
