@@ -5,7 +5,7 @@
 
 _Salt Lake City, UT, USA <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/email.svg" alt="Email: " /> donlivingston@gmail.com <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/phone.svg" alt="Phone: " /> 801-971-2482 <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem 0 0.5rem;" width="12" height="12" src="icons/website.svg" alt="Website: " /> [donaldlivingston.com](https://donaldlivingston.com)_  
 
-Senior frontend engineer with 12+ years of experience building scalable, user-centered web applications. Specializes in frontend architecture, accessibility, and performance, with a strong track record of owning UI systems end to end across product, enterprise, and consulting environments.
+Senior frontend engineer with 12+ years of experience building scalable, user-centered web applications. Extensive experience consuming RESTful APIs and collaborating closely with backend engineers to translate complex backend systems into accessible, high-quality user interfaces.
 
 </div>
 
@@ -22,7 +22,7 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 * __Frontend Architecture:__ Design Systems, Accessibility (WCAG), Performance Optimization  
 * __Frontend Technologies:__ React, TypeScript, JavaScript (ES6+), Angular, Vue.js, Tailwind CSS, HTML/CSS  
 * __UI Engineering:__ Component-Driven Development, Responsive Design, Data-Driven Interfaces   
-* __Backend Technologies:__ Node.js, PHP, RESTful APIs, Content Management Systems (CMS)  
+* __Backend Integrations:__ RESTful APIs, API-driven UI development, Cross-team backend collaboration (Java, .NET, Python) 
 * __Testing & Debugging:__ Jest, Cypress, Mocha, Browser DevTools, Code Review  
 * __Development & Build Tools:__ Webpack, Git, CI/CD (AWS), Docker
 * __Design Tools:__ Figma, Sketch, Adobe Creative Cloud, Storybook  
@@ -40,6 +40,8 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 * Own frontend and UI architecture for client projects end to end, from discovery and technical direction through implementation and delivery.
 * Design and build scalable, accessible web applications using React, Angular, and Vue, with an emphasis on performance, maintainability, and long-term clarity.
 * Partner directly with clients and stakeholders to translate business goals into thoughtful UX decisions and high-quality UI execution.
+* Build frontend interfaces on top of client backend systems, consuming REST APIs and collaborating with backend engineers working in Python-based services to deliver data-driven user experiences.
+
 
 ---
 
@@ -58,7 +60,7 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 #### AIM Consulting Group <img style="max-width: 12px; vertical-align: middle; margin: 0 0.25rem  0 0.375rem" width="12" height="12" src="icons/location.svg" alt="Location: " /> _Remote, USA_ <img style="max-width: 12px; vertical-align: middle;  margin: 0 0.375rem 0 0.5rem" width="12" height="12" src="icons/calendar.svg" alt="Dates: " /> _04/2023 - 08/2023_  
 
 * Designed and implemented complex data presentation features like infinite scrolling and row grouping using AG Grid, enhancing user interaction.
-* Streamlined API integrations for a user management application, improving data flow and frontend reliability. 
+* Integrated frontend features with C#/.NET-based backend APIs for a user management application, collaborating closely with backend engineers to improve data flow, reliability, and UX.  
 * Collaborated with the design team to apply Material Design principles, creating a cohesive and intuitive user experience.
 
 ---
@@ -70,7 +72,7 @@ Senior frontend engineer with 12+ years of experience building scalable, user-ce
 * Served as lead frontend engineer on a high-visibility CDC project, establishing a shared style guide and frontend standards to ensure consistency and accessibility.
 * Set technical direction and best practices for a React-based informational platform, balancing delivery speed with quality and correctness.
 * Led daily standups and collaborated closely with cross-functional teams to keep work aligned and unblocked.
-* Built custom Vue components for an AI-driven chatbot interface and contributed to an internal Angular application.
+* Integrated React and Vue frontends with enterprise backend services via REST APIs, working cross-functionally to translate complex system data into accessible, compliant user interfaces.  
 
 ---
 <!--BREAK-->
